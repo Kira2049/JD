@@ -12,6 +12,6 @@
 * Description: 作为网站的总体业务和主题概括,采用“我们是…”“我们提供…”“×××网作为…”“电话：010…”之类语句
 * Keyword: 应该限制在6～8个关键词左右
 
-## 一些可能会用到的网
+## 一些可能会用到的网站
 * css压缩：http://tool.chinaz.com/Tools/CssFormat.aspx
 * W3C 统一验证工具： http://validator.w3.org/unicorn/
